@@ -3,7 +3,7 @@ package com.vincentklim.hands;
 import com.vincentklim.card.Card;
 
 /**
- * <description>
+ * Class taht represents a two pair
  *
  * @author Vincent Lim
  * @version August 02, 2018

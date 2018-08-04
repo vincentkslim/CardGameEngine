@@ -1,7 +1,7 @@
 package com.vincentklim.hands;
 
 /**
- * <description>
+ * Class that represents a full house
  *
  * @author Vincent Lim
  * @version August 02, 2018

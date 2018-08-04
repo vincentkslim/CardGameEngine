@@ -6,7 +6,7 @@ import com.vincentklim.card.Suit;
 import java.util.Arrays;
 
 /**
- * <description>
+ * Class that represents a flush
  *
  * @author Vincent Lim
  * @version August 02, 2018

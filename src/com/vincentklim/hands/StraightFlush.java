@@ -5,9 +5,6 @@ import com.vincentklim.card.Suit;
 /**
  * Class that represents a Straight Flush.
  *
- * A straight flush is a combination of a straight and a flush, so therefore this class contains both a flush and
- * a straight
- *
  * @author Vincent Lim
  * @version July 31, 2018
  */

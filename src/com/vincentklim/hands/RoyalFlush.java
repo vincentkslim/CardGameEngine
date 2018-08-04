@@ -3,8 +3,7 @@ package com.vincentklim.hands;
 import com.vincentklim.card.Suit;
 
 /**
- * Class that represents a royal flush, which is a flush that happens to have all five royals, thus it only contains
- * a flush that houses its suit.
+ * Class that represents a royal flush
  *
  * @author Vincent Lim
  * @version July 31, 2018

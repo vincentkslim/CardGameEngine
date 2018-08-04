@@ -6,7 +6,7 @@ import com.vincentklim.card.Rank;
 import java.util.Arrays;
 
 /**
- * <description>
+ * Class that represents a pair
  *
  * @author Vincent Lim
  * @version August 02, 2018

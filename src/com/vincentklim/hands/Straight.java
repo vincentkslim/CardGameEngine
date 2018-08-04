@@ -5,7 +5,7 @@ import com.vincentklim.card.Card;
 import java.util.Arrays;
 
 /**
- * <description>
+ * Class that represents a straight
  *
  * @author Vincent Lim
  * @version August 02, 2018

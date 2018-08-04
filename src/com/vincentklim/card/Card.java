@@ -1,7 +1,5 @@
 package com.vincentklim.card;
 
-import java.util.Objects;
-
 /**
  * Represents a single card in a playing deck, with its suit and rank represented by an enum
  *
@@ -32,10 +30,7 @@ public class Card implements Comparable<Card>{
 
     @Override
     public int compareTo(Card o) {
-        int rank1 = rank == Rank.ACE ? 14 : rank.getRank();
-        int rank2 = o.getRank() == Rank.ACE ? 14 : o.getRank().getRank();
-
-        return rank1 - rank2;
+        return rank.compareTo(o.rank);
     }
 
     @Override
