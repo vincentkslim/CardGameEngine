@@ -1,4 +1,4 @@
-package com.vincentklim.utilities;
+package com.vincentklim.util;
 
 /**
  * <description>
